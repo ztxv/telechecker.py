@@ -1,14 +1,14 @@
 # telenamechecker.py
 A simple, semi-decent name availibility checker for Telegram. 
 
-The way it works is it sends HTTP requests to t.me/{name} and input a word from a given word list into the {name} and check to see if the name is registered to an account already or not.
+HOW THE BOT WORKS:
+1. The way it works is it sends HTTP requests to t.me/{name} and input a word from a given word list into the {name} and check to see if the name is registered to an account already or not.
+2. The bot takes words from the words list and makes them pluralized to see if the plural form of a specific word is availible.
+3. It skips over words that are less than 5 letters, or two part words.
 
-The bot also takes words from the words list and makes them pluralized to see if the plural form of a specific word is availible. It skips over words that are less than 5 letters, or two part words.
 
 A problem that I am running into is that the bot shows accounts that do not exist or were banned, as availible, so that feels a lot of false positives in the output. 
-
 I am working on how to fix this as of right now.
-
 
 
 HOW TO USE THE BOT:
