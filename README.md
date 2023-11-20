@@ -18,5 +18,5 @@ HOW TO USE THE BOT:
 3. Get words from https://relatedwords.org and copy and paste the words you would like to check
 4. Run the bot and let it do its thing for like a minute.
 
-# Originally I had the bot check each word and print out if its availible one by one, but I changed it so you have to wait and I will give you all the results in one print. (if that makes sense ;P)
-# Also I made it so the bot does not print out of a certain word was unavailible, to make the bot slightly faster, but you can turn this back on by removing the #'s infront of the line of code that displays the unavailible names
+#Originally I had the bot check each word and print out if its availible one by one, but I changed it so you have to wait and I will give you all the results in one print. (if that makes sense ;P)
+#Also I made it so the bot does not print out of a certain word was unavailible, to make the bot slightly faster, but you can turn this back on by removing the #'s infront of the line of code that displays the unavailible names
