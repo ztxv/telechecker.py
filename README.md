@@ -7,8 +7,8 @@ HOW THE BOT WORKS:
 3. It skips over words that are less than 5 letters, or two part words.
 
 
-A problem that I am running into is that the bot shows accounts that do not exist or were banned, as availible, so it prints out a lot of false positives in the output.
-I am working on how to fix this as of right now.
+# A problem that I am running into is that the bot shows accounts that do not exist or were banned, as availible, so it prints out a lot of false positives in the output.
+# I am working on how to fix this as of right now.
 
 
 HOW TO USE THE BOT:
