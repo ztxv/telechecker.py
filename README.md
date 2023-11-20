@@ -14,7 +14,7 @@ I am working on how to fix this as of right now.
 HOW TO USE THE BOT:
 
 1. Import the required python modules (os, requests, re, time).
-2. Create a word list (.txt file) and put it in the same folder as the bot.
+2. Create a word list (.txt file) and put it in the same folder as the bot (or use example.txt to test it out).
 3. Get words from https://relatedwords.org and copy and paste the words you would like to check
 4. Run the bot and let it do its thing for like a minute.
 
